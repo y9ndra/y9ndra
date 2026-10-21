@@ -311,7 +311,6 @@ function floating(themeName) {
   <circle r="3" fill="${t.ink}" opacity="0.8">
     <animateMotion dur="9s" repeatCount="indefinite" path="M 160 190 m -135 0 a 135 42 0 1 0 270 0 a 135 42 0 1 0 -270 0"/>
   </circle>
-  <text x="160" y="344" text-anchor="middle" font-family="${MONO}" font-size="12" fill="${t.mute}" letter-spacing="2">HELLO FROM ORBIT</text>
 </svg>`;
 }
 
