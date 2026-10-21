@@ -77,6 +77,6 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/quote-dark.svg">
-  <img alt="I don't want to conquer anything. The greatest person is the one with the most freedom." src="assets/quote-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/quote-dark.svg?v=2">
+  <img alt="I don't want to conquer anything. The greatest person is the one with the most freedom." src="assets/quote-light.svg?v=2" width="100%">
 </picture>
