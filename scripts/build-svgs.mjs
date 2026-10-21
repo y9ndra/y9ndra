@@ -223,9 +223,9 @@ function banner(themeName) {
     (x > MX - 60 && x < MX + 90 && y < MY - MR + 10);
 
   const roles = [
-    "building backends that scale",
-    "Node.js · TypeScript · Redis · Postgres",
+    "backend developer",
     "contributing to open source",
+    "building backends that scale",
     "still searching for the One Piece",
   ];
   const tw = typewriter(t, roles, { x: 92, y: 258 });
