@@ -76,6 +76,7 @@
 
 <br>
 
-<p align="center">
-  <samp>If you don't take risks, you can't create a future.</samp>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/quote-dark.svg">
+  <img alt="The greatest person is the one with the most freedom." src="assets/quote-light.svg" width="100%">
+</picture>

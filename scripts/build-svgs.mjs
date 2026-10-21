@@ -314,8 +314,19 @@ function floating(themeName) {
 </svg>`;
 }
 
+/* ====================================================================
+   QUOTE  900 x 90  (closing line, serif like the name in the banner)
+   ==================================================================== */
+function quote(themeName) {
+  const t = THEMES[themeName];
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90" role="img" aria-label="The greatest person is the one with the most freedom.">
+  <text x="450" y="54" text-anchor="middle" font-family="${SERIF}" font-size="30" fill="${t.ink}" letter-spacing="0.2">The greatest person is the one with the most <tspan font-weight="700" letter-spacing="2">FREEDOM</tspan>.</text>
+</svg>`;
+}
+
 for (const name of Object.keys(THEMES)) {
   writeFileSync(join(OUT, `banner-${name}.svg`), banner(name));
   writeFileSync(join(OUT, `astronaut-${name}.svg`), floating(name));
+  writeFileSync(join(OUT, `quote-${name}.svg`), quote(name));
 }
 console.log("wrote", OUT);
