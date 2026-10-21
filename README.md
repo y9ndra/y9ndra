@@ -78,5 +78,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/quote-dark.svg">
-  <img alt="The greatest person is the one with the most freedom." src="assets/quote-light.svg" width="100%">
+  <img alt="I don't want to conquer anything. The greatest person is the one with the most freedom." src="assets/quote-light.svg" width="100%">
 </picture>

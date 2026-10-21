@@ -319,8 +319,10 @@ function floating(themeName) {
    ==================================================================== */
 function quote(themeName) {
   const t = THEMES[themeName];
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90" role="img" aria-label="The greatest person is the one with the most freedom.">
-  <text x="450" y="54" text-anchor="middle" font-family="${SERIF}" font-size="30" fill="${t.ink}" letter-spacing="0.2">The greatest person is the one with the most <tspan font-weight="700" letter-spacing="2">FREEDOM</tspan>.</text>
+  const label = "I don't want to conquer anything. The greatest person is the one with the most freedom.";
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="900" height="96" viewBox="0 0 900 96" role="img" aria-label="${label}">
+  <text x="450" y="40" text-anchor="middle" font-family="${SERIF}" font-size="22" fill="${t.ink}">I don't want to conquer anything.</text>
+  <text x="450" y="74" text-anchor="middle" font-family="${SERIF}" font-size="22" fill="${t.ink}">The greatest person is the one with the most <tspan font-weight="700" letter-spacing="1.5">FREEDOM</tspan>.</text>
 </svg>`;
 }
 
