@@ -286,8 +286,6 @@ function banner(themeName) {
     ${tw.textNodes}
     ${tw.cursor}
 
-    <line x1="92" y1="300" x2="420" y2="300" stroke="${t.faint}" stroke-width="1"/>
-    <text x="92" y="330" font-family="${MONO}" font-size="14" fill="${t.mute}" letter-spacing="0.5" xml:space="preserve">yugendhra.me    ·    linkedin.com/in/y9ndra    ·    leetcode.com/u/y9ndra</text>
   </g>
 </svg>`;
 }
