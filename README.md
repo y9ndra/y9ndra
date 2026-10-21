@@ -79,7 +79,3 @@
 <p align="center">
   <samp>If you don't take risks, you can't create a future.</samp>
 </p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=y9ndra&style=flat-square&color=0b0b0b&label=views" alt="profile views">
-</p>
