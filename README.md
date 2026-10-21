@@ -3,7 +3,7 @@
   <img alt="Yugendhra E. Building backends that scale." src="assets/banner-light.svg" width="100%">
 </picture>
 
-<p align="center">
+<h3 align="center">
   <samp>
     <a href="https://yugendhra.me">yugendhra.me</a>
     &nbsp;·&nbsp;
@@ -13,7 +13,7 @@
     &nbsp;·&nbsp;
     <a href="mailto:yugendhra18@gmail.com">email</a>
   </samp>
-</p>
+</h3>
 
 <br>
 
@@ -64,7 +64,7 @@
 
 <br>
 
-<h3><samp>upstream</samp></h3>
+<h3><samp>open source</samp></h3>
 
 <p>
   <a href="https://github.com/search?q=is%3Apr+author%3Ay9ndra+-user%3Ay9ndra+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/github/issues-search?query=is%3Apr%20author%3Ay9ndra%20-user%3Ay9ndra%20is%3Amerged&style=flat-square&color=0b0b0b&label=merged" alt="merged pull requests" valign="middle"></a>
