@@ -223,8 +223,8 @@ function banner(themeName) {
     (x > MX - 60 && x < MX + 90 && y < MY - MR + 10);
 
   const roles = [
-    "backend-focused full-stack developer",
-    "Contributing to Open source",
+    "backend-focused full-stack engineer",
+    "contributing to open source",
     "building backends that scale",
     "still searching for the One Piece",
   ];
