@@ -42,7 +42,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/y9ndra/sotrix"><b>sotrix</b></a></td>
-    <td>Real-time social platform. Socket.IO, BullMQ, Redis, MongoDB, React 19.</td>
+    <td>Real-time social platform. Socket.IO, BullMQ, Redis, MongoDB, React .</td>
     <td align="right"><a href="https://sotrix.yugendhra.me">live</a></td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/y9ndra/portfolio"><b>portfolio</b></a></td>
-    <td>yugendhra.me, built from scratch. Next.js 16, canvas moon banner, Redis views counter.</td>
+    <td>yugendhra.me, built from scratch. Next.js , canvas moon banner, Redis views counter.</td>
     <td align="right"><a href="https://yugendhra.me">live</a></td>
   </tr>
   <tr>
